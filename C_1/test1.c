@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
      // fun2();
      // fun3();a's'da's
      
-     fun4();
+     fun5();
 
      printf("\n");
      return 0;
